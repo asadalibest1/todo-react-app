@@ -1,0 +1,28 @@
+/* style={{backgroundColor: "rgba(228, 241, 254, 0.5)", fontWeight: 'bold', borderRadius: "5px"}} */
+
+.div{
+    margin-bottom: 3px;
+}
+#ListGroup{
+  font-size: 20px;
+}
+
+.checkbox{
+    /* height: 100px; */
+    /* width: 4px; */
+    margin-right: 7px;
+    padding: 5px;
+}
+
+.button{
+    margin-left: 4px;
+    float: right;
+}
+.complete{
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgba(245, 187, 179, 0.8);
+    font-weight: normal;
+    margin-bottom: 3px;
+
+}

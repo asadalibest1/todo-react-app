@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: pink;
+}
+#div{
+    margin: 5% 5% 0% 5%;
+}
+body{
+
+    /* background-image: url("https://source.unsplash.com/1250x620/?notebook"); */
+    /* background-image: url('../pics/bk.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
